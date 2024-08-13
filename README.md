@@ -1,4 +1,4 @@
-## Hi, I'm Bruno Fiorucci, and I am Front-End Developer =)
+## Hi, I'm Bruno Fiorucci, and I am FullStack Developer =)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
